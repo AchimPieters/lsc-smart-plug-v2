@@ -11,6 +11,12 @@ This device uses a incompatible CB2S module which needs to be replaced with an E
 
 <img  style="float: right;" src="https://github.com/AchimPieters/lsc-smart-plug-v1/blob/main/image/LSC_SMART-POWER-PLUG.png" width="100">
 
+# Security and privacy
+Why Should I use this project? One of the most important features of the ESP HomeKit project is security. Because it is open source, you can see that no data from you is being recorded anywhere or anything like that. Of course because you program the code yourself, you can decide what happens, and not another large company that collects your data and sells it on to other companies. You are in control!
+
+https://www.studiopieters.nl/why-you-should-not-buy-a-smart-plug-from-a-discounter
+
+
 With the help of this Smart Plug it is possible to make devices in your home smarter. By connecting a device via this Smart Plug, you can switch the device on and off remotely. This plug fits into any European socket and can also be used as a normal socket in addition to the smart functions.
 
 #### Smart features and applications
