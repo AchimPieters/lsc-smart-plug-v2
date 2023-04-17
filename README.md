@@ -1,7 +1,7 @@
 # lsc-smart-plug V2
 ##### Brand: LSC (Smart Connect) 
 ##### Product: Smart Power Plug 
-##### VERSION: 970766
+##### VERSION: 970766 | 970762
 ##### ART. No 2578685
 <img  style="float: right;" src="https://github.com/AchimPieters/lsc-smart-plug-v1/blob/main/image/LSC_Power_Plug_V1.png" width="100">
 
