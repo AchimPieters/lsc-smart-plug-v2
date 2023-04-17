@@ -1,12 +1,13 @@
 # lsc-smart-plug V2
-##### LSC Smart Plug
+##### Brand: LSC (Smart Connect) 
+##### Product: Smart Power Plug 
 ##### VERSION: 970766
 ##### ART. No 2578685
 <img  style="float: right;" src="https://github.com/AchimPieters/lsc-smart-plug-v1/blob/main/image/LSC_Power_Plug_V1.png" width="100">
 
 
 
-This device uses a TYWE2S (ESP8684 which is a ESP8266) <b>compatible</b> module which not needs to be replaced with an other module. This module can replace modules such as: CB2S, FL_M99_V1, TYWE2S, TYZS6, TW-02, WR2, WB2, WBR2, WR2E, WB2S, WA2, XT-BL02 . This process will require a soldering tool and moderate soldering skill.
+This device uses a incompatible CB2S module which needs to be replaced with an ESP-02S (ESP8684 which is a ESP8266) This module can replace modules such as: CB2S, FL_M99_V1, TYWE2S, TYZS6, TW-02, WR2, WB2, WBR2, WR2E, WB2S, WA2, XT-BL02 . Besides the module, this process will require a soldering tool and moderate soldering skill.
 
 <img  style="float: right;" src="https://github.com/AchimPieters/lsc-smart-plug-v1/blob/main/image/LSC_SMART-POWER-PLUG.png" width="100">
 
